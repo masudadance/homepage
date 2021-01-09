@@ -922,6 +922,16 @@ border:0;
 	#headerInfo{width:250px;margin:0 auto;}
 	img.alignright, img.alignleft{display: block;	margin:5px auto;}
 	.alignright,.alignleft{float:none;}
+
+	/* スタッフページ */
+	.staff {
+		display: block;
+	}
+	.staff-img img{
+		width: 210px;
+	}
+
+	/* フッター */
 	.footer-menu{
 		display: block;
 		text-align: center;
