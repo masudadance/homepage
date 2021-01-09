@@ -190,7 +190,7 @@ color:#333;
 }
 
 .for-beginner-img {
-	background: url(images/for_beginner.jpg) center center no-repeat; 
+	background: url(../images/for_beginner.jpg) center center no-repeat; 
 	background-size: contain;
 	padding-top: 31.5%;
 	position:relative;
