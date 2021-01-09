@@ -643,6 +643,14 @@ border:0;
 	display: none;
 	margin: 10px;
 }
+/* コンタクトページ */
+.form-wrap{
+	margin: 80px 30px;
+}
+.form-wrap label {
+	font-size: 16px;
+	padding: 10px 0;
+}
 
 /* メインメニュー　PC用
 ------------------------------------------------------------*/
@@ -878,8 +886,12 @@ border:0;
 		display: none;
 	}
 	/* フッター */
+	.footer-link{
+		display: block;
+	}
 	.footer-menu{
-		display: none;
+		display: flex;
+		justify-content: center;
 	}
 	.footer-tel-mail{
 		text-align: center;
@@ -910,4 +922,8 @@ border:0;
 	#headerInfo{width:250px;margin:0 auto;}
 	img.alignright, img.alignleft{display: block;	margin:5px auto;}
 	.alignright,.alignleft{float:none;}
+	.footer-menu{
+		display: block;
+		text-align: center;
+	}
 }
