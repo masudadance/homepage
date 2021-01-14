@@ -377,6 +377,12 @@ background:#fff;
 	background-color: #1DA1F2;
 	border-radius: 5px;
 }
+.blog{
+	background-color: rgba(0, 23, 128, 0.87);
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+}
 
 section.widget ul, .widget_search, #calendar_wrap, .textwidget{
 margin:0 0 20px 0;
